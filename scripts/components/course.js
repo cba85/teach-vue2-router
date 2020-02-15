@@ -1,3 +1,5 @@
+let loggedIn = false; // Change value to test redirection
+
 export let Course = {
   template: `
         <div class="course">

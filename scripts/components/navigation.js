@@ -12,6 +12,7 @@ export let Navigation = {
         <li><router-link :to="{ path: '/redirect' }">Redirect</router-link></li>
         <li><router-link :to="{ name: '404' }">404</router-link></li>
         <li><router-link :to="{ path: '/account' }" exact>Account</router-link></li>
+        <li><router-link :to="{ name: 'page', params: { name: 'test' } }">Page</router-link></li>
         </ul>
       `
 };

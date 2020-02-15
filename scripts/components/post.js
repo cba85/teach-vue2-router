@@ -12,7 +12,7 @@ export let Post = {
         <div class="post">Post</div>
       `,
   mounted() {
-    console.log(this.$route.params);
-    console.log(this.topicId, this.postId);
+    //console.log(this.$route.params);
+    //console.log(this.topicId, this.postId);
   }
 };

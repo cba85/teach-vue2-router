@@ -1,3 +1,5 @@
+let loggedIn = false; // Change value to test redirection
+
 export let Login = {
   template: `
         <button type="submit" @click.prevent="login">Login</button>

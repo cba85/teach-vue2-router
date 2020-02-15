@@ -14,3 +14,14 @@
 10. Decoupling with props
 11. Nested routes
 12. Active class pages
+13. Router link customisation
+14. Get url from a named route
+15. Redirection at the route level
+16. Global 404 page
+17. Navigation guard (middlewares)
+18. Page titles (using mixins or vue-head plugin: https://www.npmjs.com/package/vue-head)
+19. Fetch content before rendering
+20. Route update
+21. Scroll behaviour (on anchors)
+22. Route transitions
+23. Watch for route changes

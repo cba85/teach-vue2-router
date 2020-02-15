@@ -4,6 +4,6 @@ export let User = {
         <div class="user">User {{ id }}</div>
       `,
   mounted() {
-    console.log(this.$route.params);
+    //console.log(this.$route.params);
   }
 };
